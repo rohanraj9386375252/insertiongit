@@ -1,0 +1,5 @@
+*.log
+cat.txt
+dir/
+static/dir
+
